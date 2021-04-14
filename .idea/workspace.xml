@@ -13,7 +13,23 @@
     <bookmark url="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/spring-web-mvc.xml" line="34" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40439895-52f1-4427-8de0-3ed23f508ed5" name="Default Changelist" comment="" />
+    <list default="true" id="40439895-52f1-4427-8de0-3ed23f508ed5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding01-admin-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/atcrowdfunding02-admin-webui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin_main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/admin_main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding03-admin-component-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding03-admin-component-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding04-admin-entity-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding04-admin-entity-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding05-common-util-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/atcrowdfunding02-admin-webui-1.0-SNAPSHOT/WEB-INF/lib/atcrowdfunding05-common-util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/classes/META-INF/atcrowdfunding02-admin-webui.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding03-admin-component/target/classes/META-INF/atcrowdfunding03-admin-component.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding04-admin-entity/atcrowdfunding04-admin-entity.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding04-admin-entity/target/classes/META-INF/atcrowdfunding04-admin-entity.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding05-common-util/atcrowdfunding05-common-util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcrowdfunding06-common-reverse/atcrowdfunding06-common-reverse.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/" />
@@ -51,26 +67,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="145">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.java">
+        <entry file="file://$PROJECT_DIR$/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-taglibs/4.2.10.RELEASE/spring-security-taglibs-4.2.10.RELEASE.jar!/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2072">
-              <caret line="111" selection-end-line="148" />
+            <state>
+              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -131,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/service/impl/MenuServiceImpl.java" />
         <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/handler/MenuHandler.java" />
         <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_page.jsp" />
         <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/service/api/RoleService.java" />
@@ -180,8 +186,9 @@
         <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/mvc/handler/AdminHandler.java" />
         <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/java/a/Test.java" />
         <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/java/a/Test1.java" />
-        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp" />
         <option value="$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.java" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp" />
+        <option value="$PROJECT_DIR$/test.txt" />
       </list>
     </option>
   </component>
@@ -238,11 +245,15 @@
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -251,212 +262,17 @@
               <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding02-admin-webui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="crowd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="crowd" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="taglibs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="taglibs" type="462c0819:PsiDirectoryNode" />
-              <item name="authz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="atcrowdfunding03-admin-component" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atcrowdfunding01-admin-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pro05-spring-security" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Git/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -696,6 +512,7 @@
       <workItem from="1618113428260" duration="17675000" />
       <workItem from="1618143880809" duration="1288000" />
       <workItem from="1618394836676" duration="356000" />
+      <workItem from="1618398141628" duration="509000" />
     </task>
     <servers />
   </component>
@@ -732,7 +549,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203692000" />
+    <option name="totallyTimeSpent" value="204201000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -746,7 +563,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -756,14 +573,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32756132" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23232323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31358382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22077923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.2731214" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.28612718" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32947975" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.28138527" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32947975" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32900432" />
@@ -856,6 +673,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,13 +715,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/com/atguigu/crowd/service/api/AdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/org/springframework/web/filter/DelegatingFilterProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -1230,24 +1054,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-taglibs/4.2.10.RELEASE/spring-security-taglibs-4.2.10.RELEASE.jar!/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2072">
-          <caret line="111" selection-end-line="148" />
+        <state relative-caret-position="118">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/atcrowdfunding03-admin-component/src/main/java/org/springframework/security/taglibs/authz/AbstractAuthorizeTag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+        <state relative-caret-position="264">
+          <caret line="149" column="17" lean-forward="true" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/webapp/WEB-INF/admin_main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
